@@ -1,0 +1,7 @@
+
+/anotherfile
+/filename
+/temporary
+/reversedtechtorial
+/allfolder
+/techtorial

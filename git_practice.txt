@@ -4,6 +4,5 @@ on the Linuxpractices folder.
 We should use git add command for adding the files we want on a git staging
 area. Staging area is still on our local device, but we can
 
-this is a trial
-
+trial
 
