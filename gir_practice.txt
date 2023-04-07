@@ -1,0 +1,7 @@
+we'll send our linuxpractices folder from linux machine to girhub remote
+repository. In order to send this folder, we have to initialize the git
+on the Linuxpractices folder.
+We should use git add command for adding the files we want on a git staging
+area. Staging area is still
+
+
